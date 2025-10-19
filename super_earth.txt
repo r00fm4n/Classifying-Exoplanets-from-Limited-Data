@@ -1,0 +1,1749 @@
+Ross 176 b
+TOI-1011 b
+L 98-59 f
+TOI-1238 c
+TOI-1238 b
+TOI-5800 b
+TOI-1846 b
+TOI-771 c
+OGLE-2016-BLG-0007L b
+TOI-1266 d
+G 192-15 b
+G 261-6 b
+G 268-110 b
+HD 35843 c
+TOI-2076 e
+TOI-6324 b
+TOI-1117 b
+TOI-1453 b
+TOI-4364 b
+TOI-512 b
+Gl 725 A b
+TOI-406 c
+TOI-2211.01
+TOI-2458 b
+TOI-1782.02
+TOI-6002 b
+TOI-5713 b
+KMT-2023-BLG-1866L b
+TOI-286 c
+
+Debug: VIP-CLI v3.7.1, Node v18.20.1, linux 5.15.153.1-microsoft-standard-WSL2 x64
+TOI-1408 c
+TOI-1798.02
+HD 6061 b
+TOI-757 b
+HD 25463 c
+HIP 8152 c
+TOI-1824 b
+TOI-1799 b
+TOI-1776 b
+TOI-1753 b
+TOI-1669 c
+TOI-1451 b
+TOI-1443 b
+TOI-1437 b
+TOI-1279 b
+TOI-260 b
+TOI-1742 b
+HD 48948 b
+TOI-669 b
+TOI-663 d
+TOI-2120 b
+TOI-782 b
+TOI-1448 b
+Debug: VIP-CLI v3.7.1, Node v18.20.1, linux 5.15.153.1-microsoft-standard-WSL2 x64
+TOI-4443.01
+TOI-406.01
+TOI-654.01
+TOI-1450 A c
+TOI-1450 A b
+TOI-6086 b
+TOI-6008 b
+TOI-5720 b
+Gliese 12 b
+TOI-4559 b
+TOI-1739 b
+TOI-871 b
+TOI-1467 b
+TOI-771 b
+TOI-2068 b
+TOI-5799 b
+TOI-1347 c
+TOI-1347 b
+Kepler-139 d
+HD 134606 e
+TOI-1751 b
+TOI-238 b
+Wolf 327 b
+TOI-2266 b
+HD 63433 d
+HD 88986 b
+GJ 806 b
+AU Microscopii d
+GJ 3988 b
+TOI-1801 b
+HIP 113103 b
+HIP 29442 c
+HIP 29442 d
+TOI-198 b
+TOI-2095 b
+TOI-2095 c
+TOI-1052 b
+TOI-262 b
+GJ 367 c
+TOI-1470 b
+TOI-1680 b
+MOA-2022-BLG-249L b
+TOI-784 b
+Rho Coronae Borealis e
+TOI-411 b
+TOI-411 c
+WASP-84 c
+TOI-2000 b
+TOI-2018 b
+TOI-1416 b
+TOI-2194 b
+TOI-715 b
+HD 207496 b
+LP 791-18 d
+TOI-244 b
+Kepler-1977 b
+Kepler-1986 b
+Kepler-1987 b
+Kepler-1987 c
+Kepler-1987 e
+Kepler-1988 b
+Kepler-1991 b
+Kepler-2000 c
+Kepler-2001 b
+Kepler-2001 c
+Kepler-1126 c
+Kepler-1162 c
+Kepler-1181 c
+Kepler-1471 c
+Kepler-1610 c
+Kepler-1669 d
+Kepler-1814 c
+Kepler-1834 c
+
+Kepler-1894 c
+Kepler-1921 c
+Kepler-311 d
+Kepler-416 d
+Kepler-58 e
+Kepler-656 c
+Kepler-763 c
+Kepler-784 c
+Kepler-864 c
+Kepler-763 d
+EPIC 229004835 b
+TOI-733 b
+K2-415 b
+TOI-2096 b
+TOI-2096 c
+L 363-38 b
+TOI-836 b
+TOI-836 c
+Wolf 1069 b
+KMT-2016-BLG-1105L b
+KMT-2017-BLG-1194L b
+KMT-2019-BLG-1367L b
+KMT-2019-BLG-1806L b
+KMT-2021-BLG-1391L b
+OGLE-2019-BLG-1053L b
+GJ 1002 b
+GJ 1002 c
+TOI-1695 b
+HD 20329 b
+TOI-1468 b
+K2-413 c
+K2-414 b
+K2-414 c
+HD 23472 f
+GJ 2030 b
+HD 93351 b
+LP 890-9 c
+LP 890-9 b
+TOI-1452 b
+TOI-712 b
+HD 93963 A b
+HD 93963 A c
+TOI-2081 b
+HD 260655 b
+HD 260655 c
+HD 28109 b
+Ross 508 b
+WASP-132 c
+TOI-500 c
+TOI-2136 b
+TOI-1246 c
+EPIC 206317286 c
+HD 73583 c
+K2-368 b
+K2-369 b
+K2-374 b
+K2-376 b
+K2-377 b
+K2-384 b
+TOI-1670 b
+K2-373 b
+K2-384 c
+K2-384 d
+K2-384 e
+K2-385 b
+K2-389 c
+K2-391 b
+K2-392 b
+K2-394 b
+K2-396 b
+K2-400 b
+K2-407 b
+K2-407 c
+K2-408 b
+K2-368 c
+K2-368 d
+K2-381 b
+K2-381 c
+K2-381 d
+K2-382 b
+K2-383 b
+KMT-2021-BLG-0912L b
+GJ 3929 b
+Kepler-1972 b
+Kepler-1972 c
+TOI-1075 b
+TOI-1411 b
+TOI-1442 b
+TOI-1693 b
+TOI-1860 b
+TOI-206 b
+TOI-2260 b
+TOI-2411 b
+TOI-2427 b
+TOI-2445 b
+TOI-500 b
+TOI-833 b
+TOI-1064 b
+LTT 1445 A c
+Kepler-1705 c
+OGLE-2019-BLG-0960L b
+Kepler-1669 c
+Kepler-1743 b
+Kepler-1794 b
+Kepler-1831 b
+Kepler-1841 b
+Kepler-1869 b
+Kepler-1893 b
+Kepler-1907 c
+Kepler-1938 b
+Kepler-1940 b
+Kepler-1711 b
+Kepler-1745 b
+Kepler-1756 b
+Kepler-1804 b
+Kepler-1867 b
+Kepler-1911 b
+Kepler-1953 b
+Kepler-394 d
+Kepler-1837 b
+Kepler-1838 b
+Kepler-1855 b
+Kepler-1873 b
+Kepler-1901 b
+Kepler-1932 b
+Kepler-381 d
+Kepler-1315 c
+Kepler-1600 c
+Kepler-1813 b
+Kepler-1826 b
+Kepler-1846 b
+Kepler-1852 b
+Kepler-1859 b
+Kepler-1876 b
+Kepler-1879 b
+Kepler-1891 b
+Kepler-1073 d
+Kepler-1751 b
+Kepler-1805 b
+Kepler-1809 b
+Kepler-1818 b
+Kepler-1848 b
+Kepler-1865 b
+Kepler-1866 b
+Kepler-1899 b
+Kepler-1900 b
+Kepler-1933 b
+Kepler-1960 b
+Kepler-1966 b
+Kepler-534 c
+Kepler-1795 b
+Kepler-1833 b
+Kepler-1853 b
+Kepler-1856 b
+Kepler-1884 b
+Kepler-1888 b
+Kepler-1913 b
+Kepler-1923 b
+Kepler-1964 b
+Kepler-495 c
+Kepler-1761 b
+Kepler-1823 b
+Kepler-1860 b
+Kepler-1885 b
+Kepler-1904 b
+Debug: VIP-CLI v3.7.1, Node v18.20.1, linux 5.15.153.1-microsoft-standard-WSL2 x64
+Kepler-1954 b
+Kepler-1956 b
+Kepler-501 c
+Kepler-1067 c
+Kepler-1749 b
+Kepler-1827 b
+Kepler-1857 b
+Kepler-1892 b
+Kepler-1947 b
+Kepler-1038 c
+Kepler-1266 c
+Kepler-1312 c
+Kepler-1488 c
+Kepler-1735 b
+Kepler-1882 b
+Kepler-1902 b
+Kepler-1928 b
+Kepler-1948 b
+Kepler-1950 b
+Kepler-1958 b
+Kepler-589 c
+Kepler-1713 b
+Kepler-1741 b
+Kepler-1763 b
+Kepler-1832 b
+Kepler-1839 b
+Kepler-1905 b
+Kepler-1939 b
+Kepler-1945 b
+Kepler-1952 b
+Kepler-1961 b
+Kepler-1968 b
+Kepler-1783 b
+Kepler-1802 b
+Kepler-1816 b
+Kepler-1825 b
+Kepler-1834 b
+Kepler-1909 b
+Kepler-1912 b
+Kepler-1930 b
+Kepler-1943 b
+Kepler-1955 b
+Kepler-1959 b
+Kepler-1962 b
+Kepler-1965 b
+Kepler-1894 b
+Kepler-1917 b
+Kepler-1969 b
+HD 137496 b
+HD 207897 b
+HIP 97166 b
+HD 39194 b
+HD 39194 d
+HD 93385 b
+HD 96700 c
+LHS 1678 c
+CD Ceti b
+EPIC 206024342 c
+EPIC 206042996 c
+EPIC 201427007 b
+EPIC 201595106 b
+EPIC 212624936 b
+EPIC 228836835 b
+K2-336 b
+K2-338 b
+K2-349 b
+K2-268 d
+K2-268 e
+K2-331 b
+K2-339 b
+K2-342 b
+K2-343 b
+K2-343 c
+K2-344 b
+K2-350 b
+K2-352 b
+K2-352 c
+K2-354 b
+L 98-59 e
+TOI-2406 b
+TOI-431 b
+TOI-431 c
+TOI-1062 b
+TOI-1749 b
+TOI-2076 b
+TOI-1807 b
+G 264-012 b
+G 264-012 c
+GJ 393 b
+TOI-1260 b
+TOI-1260 c
+TOI-1634 b
+TOI-1685 b
+KOI-1831 d
+KOI-1833 d
+KOI-3503 b
+KOI-3503 c
+TOI-1444 b
+LHS 1478 b
+GJ 740 b
+GJ 486 b
+GJ 251 b
+HD 110113 c
+TOI-178 b
+TOI-178 c
+TOI-178 f
+HD 108236 b
+HD 108236 c
+HD 108236 f
+TOI-451 b
+TOI-776 c
+TOI-776 b
+TOI-561 b
+TOI-561 d
+TOI-561 e
+TOI-237 b
+EPIC 201170410.02
+Kepler-595 c
+GJ 3473 b
+HD 63433 b
+HD 63433 c
+TOI-763 b
+TOI-824 b
+Kepler-1514 c
+Kepler-1695 b
+Kepler-1697 b
+Kepler-1698 b
+Kepler-1699 b
+Kepler-1702 b
+Kepler-1001 c
+Kepler-1671 b
+Kepler-1679 b
+Kepler-1680 b
+Kepler-1683 b
+Kepler-1686 b
+Kepler-1687 b
+Kepler-1688 b
+Kepler-1691 b
+Kepler-1692 b
+Kepler-1693 b
+Kepler-1694 b
+Kepler-305 e
+Kepler-716 c
+K2-316 b
+K2-316 c
+K2-318 b
+K2-321 b
+K2-322 b
+HD 86226 c
+TOI-700 d
+GJ 887 b
+OGLE-2018-BLG-0677L b
+LTT 3780 b
+LTT 3780 c
+TOI-1235 b
+HD 164922 d
+Kepler-1649 c
+HD 158259 b
+LHS 1815 b
+GJ 1061 b
+GJ 1061 c
+GJ 1061 d
+EPIC 249893012 b
+GJ 1252 b
+L 168-9 b
+DMPP-3 A b
+TOI-270 b
+DMPP-1 d
+DMPP-1 e
+HD 80653 b
+G 9-40 b
+HD 213885 b
+PSR B0329+54 b
+LP 791-18 b
+GJ 15 A b
+GJ 682 b
+K2-198 c
+LTT 1445 A b
+K2-146 c
+GJ 357 b
+GJ 357 c
+HR 858 d
+Teegarden’s Star b
+Teegarden’s Star c
+K2-32 e
+L 98-59 c
+L 98-59 d
+EPIC 212297394 b
+EPIC 212499991 b
+EPIC 212587672 b
+EPIC 220554210 c
+EPIC 201238110 b
+EPIC 201615463 c
+EPIC 201754305 d
+EPIC 201841433 b
+EPIC 205950854 c
+EPIC 206024342 b
+EPIC 206032309 b
+EPIC 206042996 b
+K2-133 e
+HD 15337 b
+HD 21749 c
+HD 23472 b
+HD 23472 c
+LHS 1140 c
+LHS 3844 b
+EPIC 220674823 b
+HD 106315 b
+HD 136352 b
+HD 20781 b
+HD 3167 d
+GJ 411 b
+K2-288 B b
+Wolf 503 b
+GJ 1132 c
+HD 215152 b
+HD 215152 c
+HD 215152 d
+HD 215152 e
+HD 3167 b
+Ross 128 b
+GJ 273 b
+GJ 273 c
+GJ 3138 b
+GJ 3138 c
+GJ 3293 e
+GJ 3323 b
+GJ 3323 c
+LHS 1140 b
+HD 20794 e
+GJ 625 b
+GJ 9827 b
+GJ 9827 c
+Tau Ceti e
+Tau Ceti f
+Tau Ceti g
+Tau Ceti h
+YZ Ceti c
+YZ Ceti d
+EPIC 211822797 b
+GJ 3998 b
+Proxima Centauri b
+PSR B1257+12 c
+PSR B1257+12 d
+OGLE-2013-BLG-0341L B b
+GJ 1132 b
+HD 219134 b
+HD 219134 c
+HD 219134 d
+Wolf 1061 b
+Wolf 1061 c
+HD 219134 f
+55 Cancri e
+HD 156668 b
+HIP 116454 b
+HD 97658 b
+HD 20794 b
+HD 20794 d
+HD 40307 b
+GJ 581 e
+GJ 667 C c
+GJ 667 C e
+GJ 667 C f
+GJ 667 C g
+GJ 676 A d
+K2-294 b
+KOI-1599.01
+KOI-1599.02
+K2-290 b
+K2-291 b
+Kepler-730 c
+K2-285 b
+K2-279 b
+K2-265 b
+K2-268 b
+K2-269 b
+K2-270 b
+K2-274 b
+K2-263 b
+K2-158 c
+K2-243 c
+K2-244 b
+K2-252 b
+K2-254 b
+K2-240 b
+K2-240 c
+K2-239 b
+K2-239 d
+OGLE-2017-BLG-1434L b
+K2-233 b
+K2-233 c
+K2-233 d
+OGLE-2017-BLG-0173L b
+K2-219 c
+K2-221 b
+K2-222 b
+K2-157 b
+K2-162 b
+K2-165 b
+K2-165 c
+K2-168 b
+K2-156 b
+K2-205 b
+K2-208 b
+K2-211 b
+K2-213 b
+K2-216 b
+K2-219 b
+K2-199 b
+K2-200 b
+K2-201 b
+K2-203 b
+K2-187 b
+K2-187 c
+K2-187 e
+K2-188 b
+K2-189 b
+K2-190 b
+K2-190 c
+K2-191 b
+K2-192 b
+K2-183 b
+K2-184 b
+K2-185 b
+K2-170 c
+K2-172 b
+K2-173 b
+K2-175 b
+K2-176 b
+K2-180 b
+K2-169 b
+K2-170 b
+K2-229 b
+K2-229 c
+K2-230 b
+K2-223 c
+K2-224 b
+K2-226 b
+K2-227 b
+K2-228 b
+K2-146 b
+K2-147 b
+K2-154 b
+K2-154 c
+K2-155 b
+K2-155 d
+K2-148 b
+K2-148 c
+K2-148 d
+K2-149 b
+K2-150 b
+K2-151 b
+K2-153 b
+K2-141 b
+K2-138 b
+K2-138 d
+Kepler-80 g
+Kepler-90 i
+Kepler-90b
+Kepler-90c
+MOA-2013-BLG-605L b
+MOA-2007-BLG-192L b
+K2-136 b
+K2-136 c
+K2-136 d
+Kepler-1652 b
+K2-133 b
+K2-133 c
+K2-133 d
+K2-131 b
+K2-117 b
+K2-117 c
+K2-122 b
+K2-126 b
+K2-128 b
+K2-129 b
+K2-130 b
+K2-3 b
+Kepler-154 e
+Kepler-154 f
+WASP-47 e
+Kepler-1035 b
+Kepler-1037 b
+Kepler-1039 b
+Kepler-1046 b
+Kepler-1047 b
+Kepler-1048 b
+Kepler-1050 b
+Kepler-1050 c
+Kepler-1055 b
+Kepler-1059 b
+Kepler-1061 b
+Kepler-1063 b
+Kepler-323 c
+Kepler-326 b
+Kepler-326 c
+Kepler-326 d
+Kepler-327 b
+Kepler-327 d
+Kepler-328 b
+Kepler-329 c
+Kepler-330 b
+Kepler-330 c
+Kepler-331 c
+Kepler-331 d
+Kepler-332 b
+Kepler-332 c
+Kepler-333 b
+Kepler-333 c
+Kepler-334 b
+Kepler-334 d
+Kepler-114 c
+Kepler-127 b
+Kepler-128 c
+Kepler-131 c
+Kepler-132 c
+Kepler-134 c
+Kepler-136 c
+Kepler-138 c
+Kepler-140 b
+Kepler-142 b
+Kepler-151 c
+Kepler-322 c
+Kepler-323 b
+Kepler-526 b
+Kepler-528 b
+Kepler-529 b
+Kepler-529 c
+Kepler-537 b
+Kepler-1012 b
+Kepler-1017 b
+Kepler-1019 b
+Kepler-1025 b
+Kepler-1028 b
+Kepler-1029 b
+Kepler-309 b
+Kepler-310 d
+Kepler-311 b
+Kepler-311 c
+Kepler-316 c
+Kepler-317 b
+Kepler-317 c
+Kepler-319 b
+Kepler-320 c
+Kepler-321 b
+Kepler-524 b
+K2-3 d
+Kepler-100 b
+Kepler-102 d
+Kepler-106 e
+Kepler-107 d
+Kepler-10 b
+Kepler-132 e
+Kepler-507 b
+Kepler-508 b
+Kepler-514 b
+Kepler-515 b
+Kepler-520 b
+Kepler-520 c
+Kepler-523 b
+Kepler-578 b
+Kepler-579 b
+Kepler-80 f
+Kepler-1002 b
+Kepler-1003 b
+Kepler-1005 b
+Kepler-1006 b
+Kepler-1007 b
+Kepler-1008 b
+Kepler-296 f
+Kepler-298 c
+Kepler-299 e
+Kepler-301 d
+Kepler-303 c
+Kepler-306 b
+Kepler-990 c
+Kepler-994 b
+Kepler-996 b
+Kepler-299 b
+Kepler-300 b
+Kepler-301 c
+Kepler-157 d
+Kepler-166 d
+Kepler-504 b
+Kepler-560 b
+Kepler-285 c
+Kepler-286 b
+Kepler-286 d
+Kepler-286 e
+Kepler-287 b
+Kepler-288 b
+Kepler-291 c
+Kepler-292 b
+Kepler-292 c
+Kepler-294 b
+Kepler-295 c
+Kepler-296 b
+Kepler-466 c
+Kepler-477 b
+Kepler-272 c
+Kepler-273 b
+Kepler-273 c
+Kepler-274 b
+Kepler-274 c
+Kepler-280 b
+Kepler-280 c
+Kepler-282 b
+Kepler-282 c
+Kepler-282 d
+Kepler-283 c
+Kepler-285 b
+Kepler-445 b
+Kepler-445 d
+Kepler-446 d
+Kepler-226 c
+Kepler-228 b
+Kepler-231 b
+Kepler-235 c
+Kepler-236 c
+Kepler-24 d
+Kepler-446 c
+Kepler-450 d
+Kepler-452 b
+Kepler-808 b
+Kepler-810 b
+Kepler-92 d
+TRAPPIST-1 b
+TRAPPIST-1 c
+Kepler-260 c
+Kepler-261 c
+Kepler-262 c
+Kepler-265 b
+Kepler-267 b
+Kepler-270 b
+Kepler-270 c
+Kepler-271 b
+Kepler-272 b
+Kepler-449 b
+Kepler-450 c
+Kepler-784 b
+Kepler-787 b
+Kepler-792 b
+Kepler-793 b
+Kepler-795 b
+Kepler-801 b
+Kepler-804 b
+Kepler-806 b
+Kepler-1248 b
+Kepler-1250 b
+Kepler-1252 b
+Kepler-1253 b
+Kepler-1254 b
+Kepler-1254 c
+Kepler-1256 b
+Kepler-1257 b
+Kepler-1259 b
+Kepler-1260 b
+Kepler-1262 b
+Kepler-1264 b
+Kepler-1265 b
+Kepler-1269 b
+Kepler-1271 b
+Kepler-1274 b
+Kepler-221 b
+Kepler-776 b
+Kepler-778 b
+Kepler-249 b
+Kepler-249 d
+Kepler-250 b
+Kepler-251 b
+Kepler-253 b
+Kepler-256 b
+Kepler-758 c
+Kepler-758 e
+Kepler-760 c
+Kepler-761 b
+Kepler-763 b
+Kepler-764 b
+Kepler-768 b
+Kepler-769 c
+Kepler-770 c
+Kepler-770 d
+Kepler-771 b
+Kepler-772 b
+Kepler-773 b
+Kepler-775 b
+Kepler-1216 b
+Kepler-1217 b
+Kepler-1218 b
+Kepler-1220 b
+Kepler-1221 b
+Kepler-1223 b
+Kepler-1225 b
+Kepler-1226 b
+Kepler-1228 b
+Kepler-1231 b
+Kepler-1232 b
+Kepler-1240 b
+Kepler-1244 b
+Kepler-1245 b
+Kepler-1245 c
+Kepler-1246 b
+Kepler-416 b
+Kepler-417 b
+Kepler-431 d
+Kepler-438 b
+Kepler-440 b
+Kepler-441 b
+Kepler-756 b
+Kepler-757 b
+K2-21 c
+Kepler-237 c
+Kepler-238 b
+Kepler-238 c
+Kepler-240 b
+Kepler-240 c
+Kepler-243 c
+Kepler-244 d
+Kepler-245 c
+Kepler-246 c
+Kepler-247 b
+Kepler-411 b
+Kepler-414 b
+Kepler-415 c
+Kepler-743 b
+Kepler-744 b
+Kepler-746 b
+Kepler-750 c
+Kepler-753 b
+Kepler-754 b
+
+Kepler-755 c
+Kepler-1188 b
+Kepler-1189 b
+Kepler-1190 b
+Kepler-1191 b
+Kepler-1193 b
+Kepler-1194 b
+Kepler-1195 b
+Kepler-1197 b
+Kepler-1198 b
+Kepler-1199 b
+Kepler-1200 b
+Kepler-1203 b
+Kepler-1205 b
+Kepler-1206 b
+Kepler-1207 b
+Kepler-1209 b
+Kepler-1210 b
+Kepler-1213 b
+Kepler-1215 b
+Kepler-255 d
+Kepler-732 c
+Kepler-737 b
+Kepler-1155 b
+Kepler-1156 b
+Kepler-1163 b
+Kepler-1164 b
+Kepler-1165 b
+Kepler-1167 b
+Kepler-1174 b
+Kepler-1177 b
+Kepler-1178 b
+Kepler-1179 b
+Kepler-1181 b
+Kepler-245 e
+Kepler-691 b
+Kepler-707 b
+Kepler-80 e
+Kepler-84 c
+Kepler-92 c
+Kepler-97 b
+Kepler-1125 b
+Kepler-1126 b
+Kepler-1127 b
+Kepler-1131 b
+Kepler-1133 b
+Kepler-1135 b
+Kepler-1136 b
+Kepler-1138 b
+Kepler-1139 b
+Kepler-1142 b
+Kepler-1143 b
+Kepler-1145 b
+Kepler-1146 b
+Kepler-1148 b
+Kepler-1150 b
+Kepler-683 b
+Kepler-442 b
+Kepler-446 b
+Kepler-48 b
+Kepler-49 c
+Kepler-50 c
+Kepler-52 b
+Kepler-55 b
+Kepler-55 f
+Kepler-57 c
+Kepler-62 e
+Kepler-674 b
+K2-16 b
+K2-18 b
+Kepler-1111 b
+Kepler-1114 b
+Kepler-1115 b
+Kepler-1117 b
+Kepler-1119 b
+Kepler-1120 b
+Kepler-1121 b
+Kepler-1122 b
+Kepler-1123 b
+Kepler-1124 b
+Kepler-398 c
+Kepler-399 c
+Kepler-399 d
+Kepler-400 b
+Kepler-400 c
+Kepler-402 b
+Kepler-402 c
+Kepler-402 e
+Kepler-403 b
+Kepler-403 c
+Kepler-404 c
+Kepler-405 b
+Kepler-406 c
+Kepler-407 b
+Kepler-658 b
+Kepler-217 d
+Kepler-366 c
+Kepler-371 b
+Kepler-377 c
+Kepler-37 e
+Kepler-380 b
+Kepler-382 b
+Kepler-384 b
+Kepler-386 c
+Kepler-392 c
+Kepler-393 b
+Kepler-393 c
+Kepler-394 b
+Kepler-394 c
+Kepler-395 b
+Kepler-395 c
+Kepler-401 b
+Kepler-402 d
+Kepler-404 b
+Kepler-406 b
+Kepler-415 b
+Kepler-641 b
+Kepler-646 b
+Kepler-647 b
+Kepler-653 b
+Kepler-654 b
+K2-5 b
+Kepler-230 c
+Kepler-235 d
+Kepler-236 b
+Kepler-237 b
+Kepler-381 c
+Kepler-382 c
+Kepler-383 b
+Kepler-384 c
+Kepler-385 b
+Kepler-386 b
+Kepler-387 b
+Kepler-389 b
+Kepler-389 c
+Kepler-633 b
+Kepler-634 b
+Kepler-638 b
+K2-19 d
+Kepler-198 d
+Kepler-320 b
+Kepler-322 b
+Kepler-324 b
+Kepler-327 c
+Kepler-329 b
+Kepler-32 e
+Kepler-331 b
+Kepler-332 d
+Kepler-334 c
+Kepler-336 b
+Kepler-341 e
+Kepler-343 c
+Kepler-345 c
+Kepler-347 c
+Kepler-349 c
+Kepler-353 c
+Kepler-355 b
+Kepler-362 c
+Kepler-376 b
+Kepler-376 c
+Kepler-377 b
+Kepler-379 b
+Kepler-380 c
+Kepler-625 b
+Kepler-625 c
+Kepler-629 b
+Kepler-217 c
+Kepler-218 b
+Kepler-219 d
+Kepler-220 c
+Kepler-220 e
+Kepler-224 b
+Kepler-224 e
+Kepler-225 b
+Kepler-225 c
+Kepler-226 b
+Kepler-226 d
+Kepler-365 b
+Kepler-365 c
+
+Kepler-367 b
+Kepler-367 c
+Kepler-369 b
+Kepler-369 c
+Kepler-370 b
+Kepler-370 c
+Kepler-371 c
+Kepler-372 b
+Kepler-372 c
+Kepler-372 d
+Kepler-373 b
+Kepler-373 c
+Kepler-374 b
+Kepler-374 c
+Kepler-374 d
+Kepler-375 b
+Kepler-192 d
+Kepler-286 c
+Kepler-298 b
+Kepler-301 b
+Kepler-310 b
+Kepler-312 b
+Kepler-316 b
+Kepler-363 b
+Kepler-363 c
+Kepler-363 d
+Kepler-364 b
+Kepler-611 b
+Kepler-615 b
+Kepler-619 c
+Kepler-295 d
+Kepler-296 e
+Kepler-299 d
+Kepler-1092 b
+Kepler-1093 b
+Kepler-1093 c
+Kepler-1096 b
+Kepler-1098 b
+Kepler-1100 b
+Kepler-1104 b
+Kepler-1105 b
+Kepler-1106 b
+Kepler-1107 b
+Kepler-1108 b
+Kepler-215 b
+Kepler-215 c
+Kepler-215 d
+Kepler-215 e
+Kepler-352 c
+Kepler-354 b
+Kepler-354 c
+Kepler-354 d
+Kepler-356 b
+Kepler-356 c
+Kepler-357 b
+Kepler-360 b
+Kepler-361 b
+Kepler-603 d
+Kepler-605 b
+Kepler-1313 b
+Kepler-1315 b
+Kepler-1319 b
+Kepler-1320 b
+Kepler-1322 b
+Kepler-1323 b
+Kepler-1324 b
+Kepler-1327 b
+Kepler-1331 b
+Kepler-1332 b
+Kepler-1336 b
+Kepler-1336 c
+Kepler-1340 b
+Kepler-206 b
+Kepler-207 c
+Kepler-208 d
+Kepler-242 c
+Kepler-244 c
+Kepler-249 c
+Kepler-252 b
+Kepler-255 b
+Kepler-260 b
+Kepler-262 b
+Kepler-269 c
+Kepler-26 d
+Kepler-348 b
+Kepler-348 c
+Kepler-349 b
+Kepler-350 b
+Kepler-403 d
+Kepler-1275 b
+Kepler-1276 b
+Kepler-1277 b
+Kepler-1278 b
+Kepler-1279 b
+Kepler-1280 b
+Kepler-1281 b
+Kepler-1282 b
+Kepler-1283 b
+Kepler-1284 b
+Kepler-1287 b
+Kepler-1288 b
+Kepler-1289 b
+Kepler-1290 b
+Kepler-1291 b
+Kepler-1292 b
+Kepler-1295 b
+Kepler-1298 b
+Kepler-1300 b
+Kepler-1301 b
+Kepler-1302 b
+Kepler-1303 b
+Kepler-1305 b
+Kepler-1306 b
+Kepler-1310 b
+Kepler-1311 b
+Kepler-1311 c
+Kepler-167 d
+Kepler-939 b
+Kepler-946 b
+Kepler-948 b
+Kepler-953 c
+Kepler-304 e
+Kepler-886 b
+Kepler-887 b
+Kepler-887 c
+Kepler-888 b
+Kepler-889 b
+Kepler-895 b
+Kepler-898 b
+Kepler-900 b
+Kepler-901 b
+Kepler-903 b
+Kepler-904 b
+Kepler-905 b
+Kepler-907 b
+Kepler-908 b
+Kepler-909 b
+Kepler-913 b
+Kepler-914 b
+Kepler-915 b
+Kepler-916 b
+Kepler-918 b
+Kepler-922 b
+Kepler-923 b
+Kepler-927 b
+Kepler-928 b
+Kepler-929 b
+Kepler-931 b
+Kepler-932 b
+Kepler-934 b
+Kepler-936 b
+Kepler-832 b
+Kepler-833 b
+Kepler-834 b
+Kepler-842 b
+Kepler-844 b
+Kepler-845 b
+Kepler-847 b
+Kepler-848 b
+Kepler-850 b
+Kepler-851 b
+Kepler-853 b
+Kepler-866 b
+Kepler-868 b
+Kepler-872 b
+Kepler-876 b
+Kepler-878 b
+Kepler-881 b
+Kepler-882 b
+Kepler-884 b
+Kepler-821 b
+Kepler-822 b
+Kepler-823 b
+Kepler-824 b
+Kepler-825 b
+Kepler-825 c
+Kepler-826 b
+Kepler-828 b
+Kepler-830 b
+Kepler-831 b
+Kepler-113 b
+Kepler-114 b
+Kepler-80 d
+Kepler-973 b
+Kepler-975 b
+Kepler-968 b
+Kepler-968 c
+Kepler-969 b
+Kepler-1651 b
+K2-110 b
+K2-101 b
+K2-102 b
+K2-104 b
+K2-111 b
+OGLE-2016-BLG-1195L b
+Kepler-1649 b
+TRAPPIST-1 f
+TRAPPIST-1 g
+K2-86 b
+K2-88 b
+K2-90 c
+K2-91 b
+K2-46 b
+K2-47 b
+K2-49 b
+K2-50 b
+K2-58 c
+K2-58 d
+K2-64 b
+K2-65 b
+K2-66 b
+K2-68 b
+K2-72 b
+K2-72 c
+K2-72 d
+K2-72 e
+K2-80 b
+K2-80 c
+K2-81 b
+K2-83 b
+K2-83 c
+K2-84 c
+K2-85 b
+K2-35 b
+K2-35 c
+K2-36 b
+K2-37 b
+K2-38 b
+Kepler-883 b
+Kepler-1095 b
+Kepler-1069 b
+Kepler-1070 b
+Kepler-1072 b
+Kepler-1073 c
+Kepler-1074 b
+Kepler-1075 b
+Kepler-1078 b
+Kepler-1079 b
+Kepler-1081 b
+Kepler-1082 b
+Kepler-1084 b
+Kepler-1088 b
+Kepler-1089 b
+Kepler-1091 b
+Kepler-1032 b
+Kepler-1040 b
+Kepler-1062 b
+Kepler-1064 b
+Kepler-1065 c
+Kepler-988 b
+Kepler-992 b
+Kepler-997 b
+Kepler-538 b
+Kepler-542 b
+Kepler-958 b
+Kepler-962 b
+Kepler-974 b
+Kepler-1251 b
+Kepler-1254 d
+Kepler-1263 b
+Kepler-1268 b
+Kepler-1394 b
+Kepler-1396 b
+Kepler-1397 b
+Kepler-1398 c
+Kepler-1399 b
+Kepler-1400 b
+Kepler-1401 b
+Kepler-1404 b
+Kepler-1406 b
+Kepler-1409 b
+Kepler-1410 b
+Kepler-1413 b
+Kepler-1414 b
+Kepler-1415 b
+Kepler-1418 b
+Kepler-1420 b
+Kepler-1422 b
+Kepler-1423 b
+Kepler-1424 b
+Kepler-1426 b
+Kepler-1427 b
+Kepler-1344 b
+Kepler-1346 b
+Kepler-1347 b
+Kepler-1348 b
+Kepler-1350 c
+Kepler-1353 b
+Kepler-1355 b
+Kepler-1356 b
+Kepler-1357 b
+Kepler-1358 b
+Kepler-1363 b
+Kepler-1366 b
+Kepler-1368 b
+Kepler-1370 b
+Kepler-1370 c
+Kepler-1372 b
+Kepler-1373 b
+Kepler-1375 b
+Kepler-1376 b
+Kepler-1377 b
+Kepler-1379 b
+Kepler-1380 b
+Kepler-1382 b
+Kepler-1383 b
+Kepler-1384 b
+Kepler-1386 b
+Kepler-1389 b
+Kepler-1390 b
+Kepler-1391 b
+Kepler-1392 b
+Kepler-1224 b
+Kepler-1229 b
+Kepler-1238 b
+Kepler-1243 b
+Kepler-1317 b
+Kepler-1330 b
+Kepler-1335 b
+Kepler-1342 b
+Kepler-1343 b
+Kepler-1166 b
+Kepler-1180 b
+Kepler-1185 b
+Kepler-1144 b
+Kepler-1149 b
+Kepler-1153 b
+Kepler-1157 b
+Kepler-917 b
+Kepler-935 b
+Kepler-1553 b
+Kepler-1555 b
+Kepler-1556 b
+Kepler-1557 b
+Kepler-1561 b
+Kepler-1564 b
+Kepler-1565 b
+Kepler-1568 b
+Kepler-1569 b
+Kepler-1570 b
+Kepler-1571 b
+Kepler-1573 b
+Kepler-1574 b
+Kepler-1575 b
+Kepler-1576 b
+Kepler-1577 b
+Kepler-1578 b
+Kepler-1582 b
+Kepler-1584 b
+Kepler-1585 b
+Kepler-1586 b
+Kepler-1587 b
+Kepler-1589 b
+Kepler-1590 b
+Kepler-1591 b
+Kepler-1592 b
+Kepler-1594 b
+Kepler-1595 b
+Kepler-1596 b
+Kepler-1597 b
+Kepler-1511 b
+Kepler-1512 b
+Kepler-1516 b
+Kepler-1522 b
+Kepler-1523 b
+Kepler-1528 b
+Kepler-1530 b
+Kepler-1530 c
+Kepler-1531 b
+Kepler-1532 b
+Kepler-1534 b
+Kepler-1537 b
+Kepler-1541 b
+Kepler-1544 b
+Kepler-1439 b
+Kepler-1440 b
+Kepler-1441 b
+Kepler-1448 b
+Kepler-1449 b
+Kepler-1450 b
+Kepler-1454 b
+Kepler-1456 b
+Kepler-1457 b
+Kepler-1459 b
+Kepler-1460 b
+Kepler-1461 b
+Kepler-1463 b
+Kepler-1464 b
+Kepler-1465 b
+Kepler-1466 b
+Kepler-1468 b
+Kepler-1468 c
+Kepler-1470 b
+Kepler-1471 b
+Kepler-1472 b
+Kepler-1473 b
+Kepler-1476 b
+Kepler-1477 b
+Kepler-1478 b
+Kepler-1479 b
+Kepler-1480 b
+Kepler-1481 b
+Kepler-1482 b
+Kepler-1483 b
+Kepler-1485 b
+Kepler-1488 b
+Kepler-1489 b
+Kepler-1491 b
+Kepler-1492 b
+Kepler-1493 b
+Kepler-1497 b
+Kepler-1498 b
+Kepler-1499 b
+Kepler-1500 b
+Kepler-1501 b
+Kepler-1506 b
+Kepler-1508 b
+Kepler-1509 b
+Kepler-1428 b
+Kepler-1429 b
+Kepler-1430 b
+Kepler-1431 b
+Kepler-1433 b
+Kepler-1434 b
+Kepler-1436 b
+Kepler-1437 b
+Kepler-1599 b
+Kepler-1602 b
+Kepler-1603 b
+Kepler-1604 b
+Kepler-1605 b
+Kepler-1606 b
+Kepler-1608 b
+Kepler-1610 b
+Kepler-1612 b
+Kepler-1613 b
+Kepler-1614 b
+Kepler-1615 b
+Kepler-1616 b
+Kepler-1617 b
+Kepler-1618 b
+Kepler-1620 b
+Kepler-1622 b
+Kepler-1623 b
+Kepler-1626 b
+Kepler-1631 b
+Kepler-1633 b
+Kepler-1638 b
+Kepler-1644 b
+Kepler-1645 b
+Kepler-1646 b
+Kepler-777 b
+Kepler-796 b
+Kepler-804 c
+Kepler-710 b
+Kepler-176 e
+Kepler-598 b
+Kepler-601 b
+Kepler-602 b
+Kepler-617 b
+Kepler-171 d
+Kepler-173 b
+Kepler-174 c
+Kepler-176 b
+Kepler-179 b
+Kepler-179 c
+Kepler-180 b
+Kepler-181 b
+Kepler-181 c
+Kepler-36 b
+Kepler-37 c
+Kepler-46 d
+Kepler-48 c
+Kepler-48 d
+Kepler-49 b
+Kepler-49 d
+Kepler-49 e
+Kepler-50 b
+Kepler-52 c
+Kepler-52 d
+K2-3 c
+Kepler-10 c
+Kepler-155 b
+Kepler-157 b
+Kepler-158 c
+Kepler-160 b
+Kepler-162 b
+Kepler-163 b
+Kepler-164 b
+Kepler-167 b
+Kepler-167 c
+Kepler-168 b
+Kepler-169 b
+Kepler-169 c
+Kepler-169 d
+Kepler-33 b
+Kepler-9 d
+Kepler-128 b
+Kepler-129 b
+Kepler-130 b
+Kepler-130 d
+Kepler-131 b
+Kepler-132 b
+Kepler-132 d
+Kepler-133 b
+Kepler-134 b
+Kepler-135 b
+Kepler-135 c
+Kepler-136 b
+Kepler-137 b
+Kepler-137 c
+Kepler-138 d
+Kepler-139 c
+Kepler-140 c
+Kepler-141 c
+Kepler-144 b
+Kepler-144 c
+Kepler-147 b
+Kepler-148 b
+Kepler-149 c
+Kepler-150 b
+Kepler-19 b
+Kepler-20 b
+Kepler-20 d
+Kepler-20 f
+Kepler-21 b
+Kepler-22 b
+Kepler-23 b
+Kepler-24 b
+Kepler-24 c
+Kepler-105 c
+Kepler-106 c
+Kepler-107 b
+Kepler-107 c
+Kepler-107 e
+Kepler-110 b
+Kepler-111 b
+Kepler-115 b
+Kepler-118 b
+Kepler-120 b
+Kepler-120 c
+Kepler-122 f
+Kepler-123 c
+Kepler-124 c
+Kepler-124 d
+Kepler-126 b
+Kepler-126 c
+Kepler-78 b
+CoRoT-7 b
+Kepler-100 d
+Kepler-101 c
+Kepler-102 b
+Kepler-102 c
+Kepler-102 f
+Kepler-104 b
+Kepler-105 b
+Kepler-211 b
+Kepler-211 c
+Kepler-212 b
+Kepler-213 b
+Kepler-68 c
+Kepler-69 c
+Kepler-81 b
+Kepler-81 d
+Kepler-82 d
+Kepler-84 b
+Kepler-84 d
+Kepler-85 d
+Kepler-85 e
+Kepler-93 b
+Kepler-99 b
+KOI-94 b
+Kepler-195 b
+Kepler-195 c
+Kepler-196 b
+Kepler-197 b
+Kepler-197 c
+Kepler-197 d
+Kepler-200 c
+Kepler-203 c
+Kepler-203 d
+Kepler-204 c
+Kepler-205 b
+Kepler-205 c
+Kepler-206 c
+Kepler-206 d
+Kepler-207 b
+Kepler-208 b
+Kepler-208 c
+Kepler-208 e
+Kepler-341 d
+Kepler-342 c
+Kepler-347 b
+Kepler-337 b
+Kepler-337 c
+Kepler-338 b
+Kepler-338 e
+Kepler-339 b
+Kepler-339 c
+Kepler-341 b
+Kepler-341 c
+Kepler-174 b
+Kepler-186 b
+Kepler-186 f
+Kepler-18 b
+Kepler-191 b
+Kepler-202 b
+K2-13 b
+Kepler-202 c
+Kepler-295 b
+Kepler-339 d
+Kepler-383 c
+Kepler-430 c
+Kepler-183 b
+Kepler-183 c
+Kepler-184 c
+Kepler-185 b
+Kepler-185 c
+Kepler-186 c
+Kepler-186 d
+Kepler-186 e
+Kepler-187 b
+Kepler-188 b
+Kepler-189 b
+Kepler-189 c
+Kepler-190 b
+Kepler-190 c
+Kepler-191 c
+Kepler-194 b
+Kepler-54 c
+Kepler-54 d
+Kepler-55 c
+Kepler-55 d
+Kepler-55 e
+Kepler-59 b
+Kepler-60 b
+Kepler-60 c
+Kepler-62 b
+Kepler-62 f
+Kepler-65 b
+Kepler-65 d
+Kepler-68 b
+Kepler-409 b
